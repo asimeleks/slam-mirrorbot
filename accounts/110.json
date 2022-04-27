@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "snappy-meridian-348517",
+  "private_key_id": "64ae7823c92f0d0e0a57663774c212ab3715c46d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDDDNVEPjnTEJX2\n3acrdDCAqp7S3xXTJyf0CFuW8NsuRIs5q/4JOO1mtGM5dqDTMtEvRccnLPLdVCsF\nDNtT77PSWLzMvIFxrYI9m8jy/cTPJkVoqB8SHqMmOWHe6bma3zraNE6N7vCUjc9e\nvf6DYkhW0neVkLt3q6ue8ICxXHxMxw1GV3GCBR+1xQobOsleJpi0cfeH3vftgGIK\nPVV2jicjVtFvDSnY3MITPvR/4RU55GdHcRIzdR8qliHhN1RpdQUD8T8cCk+krzry\nx+F62CHd9AIeyXFpIgOm2apP+UCRvmkG4un/dHcSjt80Khm6IP1mX7kmdkrRJTvx\nmMe+FEZhAgMBAAECgf8k+/WT3nee4NCYv8/1yOdeEDmsINF6u9yGBppnD/55vAHw\nVIi/+Wyjgh0BM6PaIJ26OvB6Bnn+DL5rmta4iPtvAl1ToUzCHZ9SuAgu7+bmmE5J\na+p1dV90e+f05Id3/ltLV7UvFRE0xu9PItQlcnCBG3WrISezz2nX/gcdKsk3xWDb\nsLfaf8GwQ0rUK8meie1SJGcHn/CVE4T9/VmoJftpI02MVMf1r1NYeyKsCpO0Yc/R\nb3Kum4nkv3sX9cqjNDU95G/tZ6RV12CfQxzzqN3/mz7rdLl8WpncGphuHQjB8C0Z\nkezsCN11HavaVNVblYwmY+HBxHMMrgfquJrQPZECgYEA7nhhFRIiNpG4diZNKIk8\nJdVDMXkB6xJtu/1WLeY8cy6+Cpwbqbs5eFPIhb1siENwvc0iYx4IVVeMipE8lnDD\na9o7mOjtc4y6xWAdhHXkYvchBQz01ptJf3FwCebNviD6jBWeq6VN/VkaJCjb5jLO\neBdNoGqyX3e3uzryFzZbfwUCgYEA0WNbvJ9D+82Xga2SX3/YXWWydQrcPQ3t191J\nlJzkcfUN3lc+qigk3MgsJ4HxZWEOl7d+e6vNrP1HG8HTIaTWciGq6LRm/YTkgL2T\n+8jAMrmL/fo+EiPgA4JGbyHQrE88J4wLxwbVmqk0YgabVrnUGJR9QsRVJGlc9mR9\n0Gr8sK0CgYEAzXw9a4KsqIj4ghaO9hcLFS6nL8ItvPmsRQkPcY2rGTV13H6X97G0\n29KWP2fyVZiHVYWl0/LVC3TdTanIo3mXayApqqFLuv3RErK3vKQ5oG2Crm9zqlk1\nA/QjruSK9QJF4t/eUdmnUl+s/uuWUM4Gy8SIx2opOcpXL6ajZQ0Z2mECgYAk9MNp\nPDb0h2nZMnhmMJtQiLWBoOQURpQXCHCHMVXEozrKZl2iDKnM6euZIX8opIO91V4W\nl9EaWi2lwYTxKDXNORIANm8DCeSGsG8g/mKl0UfbEMLJ0tkj5WdnD/HTp7x3QmmF\nvDgRLxIWxxG9sdi0aejd0ucwIQSOXFg0Y92rlQKBgQCiflVc59CsCbARI9ejxgzm\nN4yroZixWVL6yOTC0rgtCndP4X35UKEV+A/xTxzu0D0IV0KM2U4/AJj35l9fY4Nf\nDItFxTu7Um9CCzL5pGlE20Xj8TDTi/mWVZa6vuOiP8//q0+rUoDcLP0kp9qe6kcW\n9qSgFTZTIC7ZFJtYWZmbUg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "mfc-a8zyngn7qa13m35osi6oahsx7h@snappy-meridian-348517.iam.gserviceaccount.com",
+  "client_id": "110456851603065769730",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-a8zyngn7qa13m35osi6oahsx7h%40snappy-meridian-348517.iam.gserviceaccount.com"
+}
